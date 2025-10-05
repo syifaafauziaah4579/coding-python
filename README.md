@@ -1,1 +1,12 @@
-# coding-python
+# coding-python[input_variabel.py](https://github.com/user-attachments/files/22709798/input_variabel.py)
+[input_4.py](https://github.com/user-attachments/files/22709799/input_4.py)[kodelist.py](https://github.com/user-attachments/files/22709810/kodelist.py)
+[latihan_1_list.py](https://github.com/user-attachments/files/22709809/latihan_1_list.py)
+[latihan_2_dictionary.py](https://github.com/user-attachments/files/22709808/latihan_2_dictionary.py)
+[latihan_3_kombinasi.py](https://github.com/user-attachments/files/22709807/latihan_3_kombinasi.py)
+[studi_kasus.py](https://github.com/user-attachments/files/22709806/studi_kasus.py)
+[tipedatadictinlist.py](https://github.com/user-attachments/files/22709805/tipedatadictinlist.py)
+[tipedatalist.py](https://github.com/user-attachments/files/22709804/tipedatalist.py)
+[tipedatalistindict.py](https://github.com/user-attachments/files/22709803/tipedatalistindict.py)
+[variabel.py](https://github.com/user-attachments/files/22709802/variabel.py)
+[input_1.py](https://github.com/user-attachments/files/22709801/input_1.py)
+[input_3.py](https://github.com/user-attachments/files/22709800/input_3.py)
